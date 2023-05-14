@@ -20,4 +20,4 @@ src/: This folder contains the Java source code for the assignment.
 test/: This folder contains any test files or test suites for the assignment.
 
 Contributing
-If you notice any errors in the assignments or have suggestions for improvements, feel free to open an issue or submit a pull request.
+If you notice any errors in the assignments or have suggestions for improvements, feel free to open an issue or submit a pull request!
